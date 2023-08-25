@@ -1,3 +1,6 @@
+# CHANGES - FuseFairy's latest commit was updating to bardapi==0.1.33 in requirements. That has been updated.
+
+
 # DiscordBot-BardGPT
 > ## Using Google Bard Chat AI on discord bot.
 
